@@ -1,4 +1,4 @@
 
 <?php
 
-@system("rf -rm bot.php");
+@system("rm -rf bot.php");
